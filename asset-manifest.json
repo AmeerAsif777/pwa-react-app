@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pwa-react-app/static/css/main.c3e07cbb.chunk.css",
+    "main.js": "/pwa-react-app/static/js/main.2e5c5073.chunk.js",
+    "main.js.map": "/pwa-react-app/static/js/main.2e5c5073.chunk.js.map",
+    "runtime-main.js": "/pwa-react-app/static/js/runtime-main.90bab717.js",
+    "runtime-main.js.map": "/pwa-react-app/static/js/runtime-main.90bab717.js.map",
+    "static/js/2.7c921383.chunk.js": "/pwa-react-app/static/js/2.7c921383.chunk.js",
+    "static/js/2.7c921383.chunk.js.map": "/pwa-react-app/static/js/2.7c921383.chunk.js.map",
+    "index.html": "/pwa-react-app/index.html",
+    "precache-manifest.c9d58aa7e796ead2bf7abf9b2be3acde.js": "/pwa-react-app/precache-manifest.c9d58aa7e796ead2bf7abf9b2be3acde.js",
+    "service-worker.js": "/pwa-react-app/service-worker.js",
+    "static/css/main.c3e07cbb.chunk.css.map": "/pwa-react-app/static/css/main.c3e07cbb.chunk.css.map",
+    "static/js/2.7c921383.chunk.js.LICENSE.txt": "/pwa-react-app/static/js/2.7c921383.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90bab717.js",
+    "static/js/2.7c921383.chunk.js",
+    "static/css/main.c3e07cbb.chunk.css",
+    "static/js/main.2e5c5073.chunk.js"
+  ]
+}
